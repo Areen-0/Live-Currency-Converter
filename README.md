@@ -4,8 +4,10 @@ A lightweight, modern desktop application for currency conversion built with Pyt
 It fetches real-time exchange rates from the Frankfurter API and gracefully falls back to cached rates when offline
 ensuring uninterrupted usability.
 
-<img src="Screen-currency-converter.png" width="500" alt="screenshot">
-<img src="Screen-currency-converter-1.png" width="500" alt="screenshot">
+<p align="center">
+  <img src="Screen-currency-converter-1.png" alt="screenshot" width="400"/>
+  <img src="Screen-currency-converter" alt="screenshot" width="400"/>
+</p>
 
 ✨ Features
 
