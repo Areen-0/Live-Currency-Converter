@@ -4,9 +4,10 @@ A lightweight, modern desktop application for currency conversion built with Pyt
 It fetches real-time exchange rates from the Frankfurter API and gracefully falls back to cached rates when offline
 ensuring uninterrupted usability.
 
-<img src="currency-converter.png" width="500" alt="screenshot">
+<img src="screen-currency-converter.png" width="500" alt="screenshot">
 
 ✨ Features
+
 🌐 Live rates from Frankfurter API – no API key required.
 
 💾 Fallback rates based on USD as the base currency (updated March 2026).
@@ -42,4 +43,6 @@ Requests – for API calls
 
 📂 I paid great attention to organizing and structuring the code.
 
+⭐ Show your support
 
+Give a ⭐ if you like this project!
