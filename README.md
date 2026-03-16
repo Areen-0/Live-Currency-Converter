@@ -5,6 +5,7 @@ It fetches real-time exchange rates from the Frankfurter API and gracefully fall
 ensuring uninterrupted usability.
 
 <img src="Screen-currency-converter.png" width="500" alt="screenshot">
+<img src="Screen-currency-converter-1.png" width="500" alt="screenshot">
 
 ✨ Features
 
