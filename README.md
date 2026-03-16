@@ -6,7 +6,7 @@ ensuring uninterrupted usability.
 
 <p align="center">
   <img src="Screen-currency-converter-1.png" alt="screenshot" width="400"/>
-  <img src="Screen-currency-converter" alt="screenshot" width="400"/>
+  <img src="Screen-currency-converter.png" alt="screenshot" width="400"/>
 </p>
 
 ✨ Features
