@@ -1,7 +1,7 @@
 💱 Currency Converter Desktop
 
 A lightweight, modern desktop application for currency conversion built with Python and Tkinter.
-It fetches real-time exchange rates from the Frankfurter API and gracefully falls back to cached rates when offline
+It fetches real-time exchange rates from the Frankfurter API - no API key required - and gracefully falls back to cached rates when offline
 ensuring uninterrupted usability.
 
 <p align="center">
@@ -11,7 +11,7 @@ ensuring uninterrupted usability.
 
 ✨ Features
 
-🌐 Live rates from Frankfurter API – no API key required.
+🌐 Live rates from Frankfurter API – always up‑to‑date when online.
 
 💾 Fallback rates based on USD as the base currency (updated March 2026).
 
@@ -35,6 +35,16 @@ Tkinter – for the graphical user interface
 
 Requests – for API calls
 
+🔮 Future Features (In Development)
+
+🌓 Light/Dark Theme Support 
+
+🔄 Quick Currency Swap – A button to exchange the source and target currencies with one click.
+
+📜 Conversion History – Save recent conversions and reuse them with a single click.
+
+💾 Automatic Backup Rates Update – Update locally stored rates automatically when an internet connection is available.
+
 
 📚 Through building this project , I learned:
 
@@ -45,6 +55,9 @@ Requests – for API calls
 🎨 GUI development: creating a complete desktop application using Tkinter , with a modern design.
 
 📂 I paid great attention to organizing and structuring the code.
+
+📄 License
+This project is licensed under the MIT License – see the LICENSE file for details.
 
 ⭐ Show your support
 
